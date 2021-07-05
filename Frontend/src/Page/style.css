@@ -1,0 +1,49 @@
+.btn{
+    width: 10vh;
+    height: 6vh;
+    color: white;
+    font: bold;
+    font-size: 16px;
+    background-color: cornflowerblue;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
+
+.create-nft-btn{
+    width: 16vh;
+    height: 6vh;
+    color: white;
+    font: bold;
+    font-size: 16px;
+    background-color: cornflowerblue;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    margin-top: 16px;
+}
+
+.mintButton{
+    width: 16vh;
+    height: 6vh;
+    color: white;
+    font: bold;
+    font-size: 16px;
+    background-color: cornflowerblue;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    margin-top: 16px;
+}
+
+.link-go-back{
+    text-decoration: none;
+    color: white;
+}
+
+.nft-input{
+    width: 50vh;
+    height: 4vh;
+    border-radius: 4px;
+    border: none;
+}
